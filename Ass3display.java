@@ -1,3 +1,4 @@
+//test - remove this comment when officially submitting
 package package1;
 import java.util.Scanner;
 public class Ass3display {
@@ -43,4 +44,5 @@ public class Ass3display {
 		System.out.printf("Total Inventory: $%.2f%n", totalInventory);
 		System.out.printf("Total number of items in the store: %.2f%n", totalItems);
 	}
+
 }
